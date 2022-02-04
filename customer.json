@@ -1,0 +1,8 @@
+{"customer":[
+    {"Cid":"A101","fname":"Krishna","lname":"Bansal","gender":"MALE","phone":9709778866},
+    {"Cid":"B102","fname":"Aditya","lname":"Biswal","gender":"FEMALE","phone":9430341227},
+    {"Cid":"C108","fname":"Gyan","lname":"Gaytria","gender":"FEMALE","phone":8098312345},
+    {"Cid":"D104","fname":"Shipra","lname":"Jha","gender":"FEMALE","phone":6204123478},
+    {"Cid":"E105","fname":"anmol","lname":"Tirkey","gender":"MALE","phone":7890654321},
+    {"Cid":"F106","fname":"Peru","lname":"Sanga","gender":"FEMALE","phone":8890765489}
+]}
